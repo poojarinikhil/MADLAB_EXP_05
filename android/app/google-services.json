@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "498494703499",
+    "project_id": "exp-fifth",
+    "storage_bucket": "exp-fifth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498494703499:android:98c6fa94d880b9bdb4518e",
+        "android_client_info": {
+          "package_name": "com.example.exp_05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498494703499-ir2nre5mb8gmpbgcnl0knoaahvvjqflq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4TsbE2HEXtBywYjupZGMv_e_3zvj65EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498494703499-ir2nre5mb8gmpbgcnl0knoaahvvjqflq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498494703499-klsu62hv7bs2c9a8qed9s54rl8k34gho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.exp05"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
